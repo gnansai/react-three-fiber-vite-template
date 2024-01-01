@@ -1,0 +1,16 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ecdcd0;
+}
+
+body {
+  margin: 0;
+  
+}
+
+.fixScroll {
+  position: absolute;
+  top: 0;
+}
+
